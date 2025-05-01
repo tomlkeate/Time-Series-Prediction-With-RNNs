@@ -2,7 +2,7 @@
 
 This repository contains some examples of time series prediction using Recurrent Neural Networks (RNNs) and Long Short Term Memory (LSTM) networks. The examples are implemented in Python using Keras and TensorFlow libraries. This project was the final project of my Machine Learning Course at Utah Tech University.
 <iframe
-  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/tomlkeate/Time-Series-Prediction-With-RNNs/poster.pdf"
+  src="https://mozilla.github.io/pdf.js/web/viewer.html?file=https://raw.githubusercontent.com/tomlkeate/Time-Series-Prediction-With-RNNs/main/poster.pdf"
   width="100%"
   height="600px"
   style="border: none;">
